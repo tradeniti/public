@@ -1,0 +1,122 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+element.style {
+}
+#page-footer #footer-content {
+    color: #fff !important;
+    position: relative;
+    padding: 8px 0;
+}
+
+#page-footer #footer-top {
+    background-color: whitesmoke;
+    margin-top: 1px;
+    padding: 0.5px 0;
+}
+
+
+element {
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(237, 166, 2) rgb(26, 210, 128) rgb(26, 210, 128) rgb(237, 166, 2);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    width: 200px;
+    height: 200px;
+}
+.navigation-wrapper .primary-navigation-wrapper {
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    padding: 0px 0px;
+    position: relative;
+}
+
+
+element {
+    border-width: 10px;
+    border-style: solid;
+
+}
+
+#page-footer #footer-bottom {
+    background-color: #012447;
+    color: #fff;
+    padding: 1px 0;
+	
+}	
+
+
+element.style {
+}
+.woocommerce div.product div.images img {
+    display: block;
+    width: 50%;
+    height: 30%;
+    box-shadow: none;
+}
+
+element {
+}
+.col-lg-9 {
+    width: 55%;
+}
+
+
+
+.ab-label-error, li.ab-step-tabs.active a {
+    color: #FFFFFF!important;
+}
+
+
+.wpcf7-form .wpcf7-response-output.wpcf7-validation-errors {
+    color: #D8000C;
+    background-color: #FFBABA;
+    display: none;
+    border: 0;
+    padding: 10px;
+}
+.wpcf7-form .wpcf7-response-output.wpcf7-mail-sent-ok {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+    display: none;
+    border: 0;
+    padding: 10px;
+}
+div.wpcf7-mail-sent-ok:before,div.wpcf7-validation-errors:before {
+    font: 26px/30px dashicons;
+    margin-right: 16px;
+    vertical-align: middle;
+}
+div.wpcf7-mail-sent-ok:before {
+    content: "\f147";
+}
+div.wpcf7-validation-errors:before {
+    content: "\f158";
+}
+
+.Tradenitibutton {
+	background-color:#7892c2;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:8px 20px;
+	text-decoration:none;
+	text-shadow:-50px -1px 50px #ffffff;
+}
+.Tradenitibutton:hover {
+	background-color:#476e9e;
+}
+.Tradenitibutton:active {
+	position:relative;
+	top:1px;
+}
